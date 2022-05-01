@@ -13,7 +13,8 @@ There would also be user levels and scoring connected to a database so that this
 At certain levels, more features of the alarm would be available to the user, such as new alarm sounds and dark mode. 
 Once they reach max level, the goal is for the user to be well off without the alarm due to the alarm's main objective of creating better waking habits in the morning.
 
-
+### Puzzle Module
+Adding a puzzle override feature in case you dont feel like walking one day.
 
 
 This is a cool project - Tristen Calder - TristenCalder - tbc73@nau.edu
